@@ -8,7 +8,7 @@ subtitle: CV Lab Family
 
 * [vy Choi]()
 * [Bongguk Son]()
-* [Jonghwi Lee]
+* [Jonghwi Lee]()
 
 #### BS students / Interns
 
