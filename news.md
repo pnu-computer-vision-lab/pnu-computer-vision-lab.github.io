@@ -8,6 +8,7 @@ subtitle: What's up in CV Lab?
 <hr>
 -[03/2023] One paper accepted by CVPR 2023
 
+
 -[03/2023] Joined University of Michigan as a postdoctoral scholar
 
 -[12/2022] One paper accepted by BMVC 2022 has been published
