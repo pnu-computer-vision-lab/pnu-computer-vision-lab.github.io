@@ -6,6 +6,7 @@ subtitle: What's up in CV Lab?
 
 ### Sangryul Jeon
 <hr>
+
 - [03/2023] One paper accepted by CVPR 2023
 
 - [03/2023] Joined University of Michigan as a postdoctoral scholar
