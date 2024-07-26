@@ -1,7 +1,7 @@
 ---
 layout: page
 title: People 
-subtitle: M.IN.D Lab Family
+subtitle: CV Lab Family
 ---
 
 ### Principal Investigator
