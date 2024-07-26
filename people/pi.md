@@ -10,8 +10,8 @@ subtitle: CV Lab Family
 #### [Sangryul Jeon](https://sr-jeon.github.io/#)
  
 **Contact**  
-051) 510-2423 
-부산광역시 금정구 부산대학로63번길 2(장전동) 부산대학교 제6공학관(컴퓨터공학관) 
+- 051) 510-2423 
+- Pusan National University, College of Engineering Building 6 (Computer Science Building), 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, South Korea.
 
 <hr>
 
