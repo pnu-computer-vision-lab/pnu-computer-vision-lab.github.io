@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News
-subtitle: What's up in M.IN.D Lab?
+subtitle: What's up in CV Lab?
 ---
 
 ### Sangryul Jeon
