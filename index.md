@@ -6,7 +6,7 @@ subtitle: <b>C</b>omputer <b>V</b>ision Laboratory
 published: true
 ---
 <!-- <img src="img/240405_ga.jpeg" width="820" align="center"/> -->
-<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.io/master/img/240405_ga.jpeg" width="820" align="center"/>
+<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.io/img/240405_ga.jpeg" width="820" align="center"/>
 
 
 Welcome to **CV Lab** at **Pusan National University**! 
