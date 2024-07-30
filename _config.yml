@@ -19,9 +19,6 @@ title: CV Lab @ PNU
 
 # Short description of your site
 description: visual correspondences
-collections:
-  people:
-    output: true
 
 # --- Navigation bar options --- #
 
