@@ -28,7 +28,7 @@ Assistant Professor
   
 #### Work Experience
 
-* Assistant Professor, [Department of CSE](https://cse.pusan.ac.kr/cse/index.do), [PNU](https://www.pusan.ac.kr/kor/Main.do) (2021.3~)
+* Assistant Professor, [Department of CSE](https://cse.pusan.ac.kr/cse/index.do), [PNU](https://www.pusan.ac.kr/kor/Main.do) (2021.3 - Present)
 * Postdoctoral Scholar, [Department of EECS](https://eecs.berkeley.edu/), [UC Berkeley](https://www.berkeley.edu/) (Mar. 2022 - 2023)
 * Research Intern, [Creative Intelligence Lab](https://research.adobe.com/), [Adobe](https://research.adobe.com/) (May. 2021 - Aug. 2021)
 * Research Assistant, [Department of EEEN](https://ee.yonsei.ac.kr/ee_en/index.do), [Yonsei University](https://www.yonsei.ac.kr/sc/) (Mar. 2016 - Feb. 2022)
