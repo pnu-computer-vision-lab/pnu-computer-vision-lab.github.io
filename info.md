@@ -1,6 +1,5 @@
 Good to Have Skills
-- Experience in machine/deep learning tools (e.g., Scikit-Learn, Keras, Tensorflow, PyTorch) is a plus.
-- Backgrounds in real analysis, convex optimization is a plus.
+- Experience in machine/deep learning tools (PyTorch) is a plus.
 
 Research
 - Professor Sangryul Jeon obtained his Ph.D. from Yonsei University, where he researched machine autonomy based on image matching. During his doctorate, he worked as a Research Intern at Adobe Research, San Jose, focusing on correspondence-driven style transfer. From 2022, he served as a Postdoctoral Scholar at UC Berkeley's EECS department and later as a Research Fellow at the University of Michigan, Ann Arbor.
