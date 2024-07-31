@@ -13,6 +13,6 @@ subtitle: Courses
 - Introduction to Data Science (Undergraduate)
 - Advanced Computer Vision (Graduate)
   
-#### 2023
+### 2023
 #### Fall
 - Introduction to Electric and Electronic Engineering (Undergraduate)
