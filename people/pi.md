@@ -42,6 +42,10 @@ Assistant Professor
 
 #### Collaborators / Co-authors
 
+* [Stella X. Yu](https://web.eecs.umich.edu/~stellayu/)
+* [Zhe Lin](https://research.adobe.com/person/zhe-lin/)
+* [Zhifei Zhang](https://research.adobe.com/person/zhifei-zhang/)
+
 
 
 <hr>  
