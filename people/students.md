@@ -6,7 +6,7 @@ subtitle: CV Lab Family
 
 #### MS students
 
-* [vy Choi]()
+* [Bigyeol Choi]()
 * [Bongguk Son]()
 * [Jonghwi Lee]()
 
