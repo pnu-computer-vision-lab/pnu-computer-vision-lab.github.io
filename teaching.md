@@ -4,10 +4,15 @@ title: Teaching
 subtitle: Courses
 ---
 ### 2024
-#### Spring Semester
-- Open Vocabulary Semantic Segmentation (Graduate)
-- Text Guided Image Editing (Graduate)
+#### Fall
+- Introduction to Electric and Electronic Engineering (Undergraduate)
+- Probabilities and Statistics (Undergraduate)
+
+#### Spring
+- Discrete Mathematics (Undergraduate)
+- Introduction to Data Science (Undergraduate)
+- Advanced Computer Vision (Graduate)
   
-#### Pre-Semester
-- Diffusion Paper Review (Undergraduate)
-- CS231n STUDY (Undergraduate)
+#### 2023
+#### Fall
+- Introduction to Electric and Electronic Engineering (Undergraduate)
