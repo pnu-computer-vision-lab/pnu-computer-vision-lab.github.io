@@ -6,7 +6,7 @@ subtitle: Courses
 ### 2024
 #### Fall
 - Introduction to Electric and Electronic Engineering (Undergraduate)
-- Probabilities and Statistics (Undergraduate)
+- Programming for Deep Learning (Undergraduate)
 
 #### Spring
 - Discrete Mathematics (Undergraduate)
@@ -16,3 +16,4 @@ subtitle: Courses
 ### 2023
 #### Fall
 - Introduction to Electric and Electronic Engineering (Undergraduate)
+- Probabilities and Statistics (Undergraduate)
