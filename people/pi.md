@@ -35,6 +35,10 @@ Assistant Professor
 
 #### Other PNU Affiliations
 
+* [PNU AI Research Center](https://ai.pusan.ac.kr/ai/index.do)
+* [PNU Industry-Academia Collaboration Foundation](http://164.125.6.82/Default.aspx)
+* [PNU Graduate Program in Computer Vision](https://graduate.pusan.ac.kr/graduateeng/14044/subview.do)
+
 #### Professional Services
 
 * Local Arrangements Chair - KCCV 2024
