@@ -41,7 +41,7 @@ Assistant Professor
 
 #### Professional Services
 
-* Local Arrangements Chair - KCCV 2024
+* Local Arrangements Chair - [KCCV 2024](https://kcvs.kr/?act=info.workshop&pseq=7)
 
 
 #### Collaborators / Co-authors
