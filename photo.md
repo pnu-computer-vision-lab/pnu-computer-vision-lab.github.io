@@ -1,5 +1,5 @@
 ## 2024
-####KCCV, August 2024
+#### KCCV, August 2024
 <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240814_1.jpeg" width="820" style="display: block; margin: 0 auto;" />
 
 #### Cherry Blossom Picnic, April 2024
