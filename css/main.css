@@ -526,7 +526,65 @@ footer .theme-by {
     font-size: 14px;
   }
 }
+/* Slick Carousel 기본 스타일 */
+.slick-slide {
+  margin: 0 10px;
+}
 
+.slick-slide img {
+  width: 100%;
+  height: auto;
+}
+
+.slick-prev, .slick-next {
+  font-size: 0;
+  line-height: 0;
+  position: absolute;
+  top: 50%;
+  display: block;
+  width: 20px;
+  height: 20px;
+  margin-top: -10px;
+  padding: 0;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  cursor: pointer;
+  color: transparent;
+  border: none;
+  outline: none;
+  background: transparent;
+}
+
+.slick-prev:hover, .slick-next:hover, .slick-prev:focus, .slick-next:focus {
+  color: transparent;
+  outline: none;
+  background: transparent;
+}
+
+.slick-prev.slick-disabled, .slick-next.slick-disabled {
+  opacity: 0.25;
+}
+
+.slick-prev:before, .slick-next:before {
+  font-family: 'slick';
+  font-size: 20px;
+  line-height: 1;
+  opacity: 0.75;
+  color: black;
+}
+
+.slick-prev:hover:before, .slick-next:hover:before {
+  opacity: 1;
+}
+
+.slick-prev {
+  left: -25px;
+}
+
+.slick-next {
+  right: -25px;
+}
 .header-section.has-img .no-img {
   margin-top: 0;
   background: #FCFCFC;
@@ -685,6 +743,7 @@ td.gutter {
 body {
     font-family: 'Nanum Gothic', sans-serif;
 }
+
 /* --- Social media sharing section --- */
 
 #social-share-section {
