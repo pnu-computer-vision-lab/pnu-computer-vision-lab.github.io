@@ -9,16 +9,13 @@ published: true
 
 
 Welcome to **CV Lab** at **Pusan National University**! 
-
-<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/looking.png" width="820" style="display: block; margin: 0 auto;" />
-
+We are looking for passionate PhD/MS students, Postdocs, Undergraduate interns, and Researchers to join our team.  
 지원 서류를 [교수 이메일](srjeonn@pusan.ac.kr)로 제출해 주세요.  
 1. CV (이력서)
 2. 성적 증명서
 3. 연구 포트폴리오  
 
-more info
-<a href="https://pnu-computer-vision-lab.github.io/people/joinus/">
+more info <a href="https://pnu-computer-vision-lab.github.io/people/joinus/">
     <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/click.png" width="500" style="display: block; margin-left: 0;" />
 </a>
 
