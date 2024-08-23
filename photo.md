@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240814_1.jpeg" width="820" style="display: block; margin: 0 auto;" />
 
 #### Cherry Blossom Picnic, April 2024
-<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240405_ga2.jpeg" width="820" style="display: block; margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240405_ga.jpeg" width="820" style="display: block; margin: 0 auto;" />
 
 #### Spring Party, March 2024
 <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240329.jpeg" width="820" style="display: block; margin: 0 auto;" />
