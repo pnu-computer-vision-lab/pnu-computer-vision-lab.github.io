@@ -25,7 +25,9 @@ We are looking for passionate PhD/MS students, Postdocs, Undergraduate interns, 
 
 ⬇️ 자세한 내용은 아래 쿼카를 클릭해 주세요. ⬇️
 
-[![Join Us](https://user-images.githubusercontent.com/click.png)](https://github.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/blob/main/people/joinus.md)
+<a href="https://github.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/blob/main/people/joinus.md">
+    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/click.png" width="500" style="display: block; margin-left: 0;" />
+</a>
 
 
 ### Recent News
