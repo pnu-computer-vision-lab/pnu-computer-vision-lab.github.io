@@ -22,9 +22,8 @@ We are looking for passionate PhD/MS students, Postdocs, Undergraduate interns, 
 3. 연구 포트폴리오  
 지원 서류를 [교수 이메일](srjeonn@pusan.ac.kr)로 제출해 주세요.
 
-⬇️ 자세한 내용은 아래 쿼카를 클릭해 주세요. ⬇️
-
-<a href="https://github.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/blob/main/people/joinus.md">
+more info
+<a href="https://pnu-computer-vision-lab.github.io/people/joinus/">
     <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/click.png" width="500" style="display: block; margin-left: 0;" />
 </a>
 
