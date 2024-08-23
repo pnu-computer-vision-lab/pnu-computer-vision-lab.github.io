@@ -681,7 +681,10 @@ td.code pre {
 td.gutter {
   padding-top: 3px;
 }
-
+/* 추가된 스타일 */
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
 /* --- Social media sharing section --- */
 
 #social-share-section {
