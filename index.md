@@ -12,6 +12,30 @@ Welcome to **CV Lab** at **Pusan National University**!
 
 research centers on analyzing local environments of an object or scene of interest without the need of supervision but driven by visual correspondences.
 
+# 🚀 부산대학교 Computer Vision 연구실 대학원생 모집 안내 🚀
+
+부산대학교 Computer Vision 연구실에서는 열정 넘치는 대학원생을 모집합니다. 박사과정 또는 석박통합과정에 관심 있는 분들을 우대하며, 학부연구 경험이 필수입니다.
+
+### 모집 대상:
+- **대학원생 (박사과정/석박통합 우대)**
+- **학부연구 필수**
+
+### 지원 자격:
+- 연구 및 프로그래밍 경험 필수
+- 영어 성적이 있으면 도움이 됩니다
+
+### 제출 서류:
+1. **CV (이력서)**
+2. **성적 증명서**
+3. **연구 포트폴리오**
+
+### 제출 방법:
+지원 서류를 교수 이메일로 제출해 주세요.
+
+자세한 내용은 아래 배너를 클릭해 주세요.
+
+[![Join Us](https://user-images.githubusercontent.com/your-image-link.png)](https://github.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/blob/main/people/joinus.md)
+
 
 ### Recent News
 <hr>
