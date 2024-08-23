@@ -4,5 +4,31 @@ title: People
 subtitle: Join Us
 ---
 
-Research
-- Professor Sangryul Jeon has published ten papers (four as the first author) in top-tier computer vision conferences such as CVPR, ICCV, ECCV, and NeurIPS, continuing his research on self-supervised representation learning and image matching-based generative algorithms.
+# 연구실 지원
+
+부산대학교 컴퓨터비전 연구실은 물체 인식, 재식별, 초해상도 등 컴퓨터 비전 및 머신러닝 관련 다양한 연구를 수행하고 있습니다. 최근에는 차세대 인공지능 분야의 핵심 기술들을 연구하며, 다가올 미래사회를 위한 도약을 준비하고 있습니다. 특히, 다음과 같은 주제에 집중하고 있습니다:
+
+1. **AutoML**: 자동으로 인공지능 모델을 생성할 수 있는 기술
+2. **Network Compression**: 거대 인공지능 모델을 실제 하드웨어에 구동하기 위해 필수적인 인공지능 모델 압축
+3. **Artificial General Intelligence (AGI)**: 인공지능 모델이 상황에 맞게 스스로 인지, 판단, 진단 등을 할 수 있는 기술
+
+또한, 다양한 프로젝트를 통해 컴퓨터비전 및 머신러닝 관련 연구 결과를 실제 상황에 적용하며, 이론과 실제의 균형을 맞추고 학계와 산업계의 요구에 유연하게 대응하고 있습니다.
+
+부산대학교 컴퓨터비전 연구실에서는 미래를 선도할 컴퓨터비전 및 인공지능 기술의 연구와 개발에 뜻이 있는 연구원들을 모집합니다. 연구실에 지원하고자 하는 예비 연구원분들(대학원 진학 혹은 인턴 과정)은 아래 제출 목록을 확인한 후, 관련 서류를 [이메일](mailto:pnu_cvlab@pusan.ac.kr)로 제출해 주시기 바랍니다.
+
+## 제출 목록
+
+### 1. 대학원 진학
+- 지원 과정: 석사, 박사, 통합
+- **인턴 과정**: 주당 참여시간 및 참여기간
+
+### 2. 선수과목 이수 여부
+- 자료구조(Data Structures)
+- 인공지능개론(Introduction to Artificial Intelligence)
+- 공학선형대수학(Engineering Linear Algebra)
+- 확률통계(Probabilities and Statistics)
+
+### 3. 제출 서류
+- **자기소개서 및 진학동기**
+- **CV (이력서)**
+- **성적표 사본**
