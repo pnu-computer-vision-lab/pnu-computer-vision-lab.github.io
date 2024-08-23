@@ -773,3 +773,7 @@ color: #f1c40f;
 .gist, .gist-file table tr td {
   border: unset;
 }
+/* 추가된 스타일 */
+body {
+    font-family: 'Nanum Gothic', sans-serif;
+}
