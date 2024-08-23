@@ -18,7 +18,7 @@
 
 {% if layout.common-js %}
   {% for js in layout.common-js %}
-    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    <!-- jQuery를 두 번 포함하지 않기 위해 조건 추가 -->
     {% if js contains 'jquery' %}
       <script>
       	if (typeof jQuery == 'undefined') {
@@ -31,4 +31,21 @@
   {% endfor %}
 {% endif %}
 
+<!-- Slick Carousel 초기화 -->
+<script type="text/javascript">
+  $(document).ready(function(){
+    $('.slider').slick({
+      dots: true,
+      infinite: true,
+      speed: 500,
+      slidesToShow: 1,
+      slidesToScroll: 1,
+      autoplay: true,
+      autoplaySpeed: 2000,
+      adaptiveHeight: true
+    });
+  });
+</script>
+
 {% include google_analytics.html %}
+
