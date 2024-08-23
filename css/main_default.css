@@ -443,7 +443,16 @@ footer .theme-by {
   }
 }
 /* --- Post and page headers --- */
+.intro-header {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
 
+.intro-header img {
+  max-width: 100%;
+  height: auto;
+}
 .intro-header {
   margin: 80px 0 20px;
   position: relative;
