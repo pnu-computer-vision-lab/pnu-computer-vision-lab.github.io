@@ -14,8 +14,16 @@ published: true
       <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_2.png" alt="Pyramidal Semantic Correspondence Networks">
     </a>
   </div>
-  <div><img src="{{ site.baseurl }}/img/image3.jpg" alt="Image 3"></div>
-  <div><img src="{{ site.baseurl }}/img/image4.jpg" alt="Image 4"></div>
+  <div>
+    <a href="https://bmvc2022.mpi-inf.mpg.de/1053.pdf" target="_blank">
+      <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_3.png" alt="COAT: Correspondence-driven Object Appearance Transfer">
+    </a>
+  </div>
+  <div>
+    <a href="https://ieeexplore.ieee.org/document/9594706" target="_blank">
+      <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_2.png" alt="COAT: Correspondence-driven Object Appearance Transfer">
+    </a>
+  </div>
 </div>
 
 Welcome to **CV Lab** at **Pusan National University**!  
