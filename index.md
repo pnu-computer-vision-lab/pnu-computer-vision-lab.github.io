@@ -53,6 +53,7 @@ published: true
 </div>
 
 Welcome to **CV Lab** at **Pusan National University**!  
+
 We are looking for passionate PhD/MS students, Postdocs, Undergraduate interns, and Researchers to join our team.  
 지원 서류를 [교수 이메일](srjeonn@pusan.ac.kr)로 제출해 주세요.  
 1. CV (이력서)
