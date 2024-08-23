@@ -5,13 +5,18 @@ permalink: /
 subtitle: <b>C</b>omputer <b>V</b>ision Laboratory
 published: true
 ---
+
 <!-- 슬라이더 추가 -->
 <div class="slider">
-  <div><img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_1.jpg" alt="KCCV 2024"></div>
-  <div><a href="https://ieeexplore.ieee.org/document/9594706" target="_blank"><img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_2.png" alt="Pyramidal Semantic Correspondence Networks"></div>
+  <div><img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_1.jpg" alt="KCCV 2024"></div>
+  <div>
+    <a href="https://ieeexplore.ieee.org/document/9594706" target="_blank">
+      <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_2.png" alt="Pyramidal Semantic Correspondence Networks">
+    </a>
+  </div>
   <div><img src="{{ site.baseurl }}/img/image3.jpg" alt="Image 3"></div>
   <div><img src="{{ site.baseurl }}/img/image4.jpg" alt="Image 4"></div>
-
+</div>
 
 Welcome to **CV Lab** at **Pusan National University**!  
 We are looking for passionate PhD/MS students, Postdocs, Undergraduate interns, and Researchers to join our team.  
