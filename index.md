@@ -11,8 +11,6 @@ published: true
   <div><a href="https://ieeexplore.ieee.org/document/9594706" target="_blank"><img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_2.png" alt="Pyramidal Semantic Correspondence Networks"></div>
   <div><img src="{{ site.baseurl }}/img/image3.jpg" alt="Image 3"></div>
   <div><img src="{{ site.baseurl }}/img/image4.jpg" alt="Image 4"></div>
-</div>
-
 
 
 Welcome to **CV Lab** at **Pusan National University**!  
