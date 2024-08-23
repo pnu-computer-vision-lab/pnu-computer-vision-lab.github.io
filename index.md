@@ -20,8 +20,8 @@ published: true
     </a>
   </div>
   <div>
-    <a href="https://ieeexplore.ieee.org/document/9594706" target="_blank">
-      <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_2.png" alt="COAT: Correspondence-driven Object Appearance Transfer">
+    <a href="https://openaccess.thecvf.com//content/CVPR2023/papers/Choi_Local-Guided_Global_Paired_Similarity_Representation_for_Visual_Reinforcement_Learning_CVPR_2023_paper.pdf" target="_blank">
+      <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_4.jpg" alt="Local-guided Global: Paired Similarity Representation for Visual Reinforcement Learning">
     </a>
   </div>
 </div>
