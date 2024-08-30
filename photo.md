@@ -1,6 +1,6 @@
 ## 2024
 #### Graduate, August 2024
-<div style="display: flex; justify-content: center; align-items: center; width: 800px; margin: 0 auto;">
+<div style="display: flex; justify-content: center; align-items: center; width: 780px; margin: 0 auto;">
 <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830.gif" width="382" style="margin-right: 0;" />
 <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830_3.gif" width="400" />
 </div>
