@@ -1,8 +1,8 @@
 ## 2024
 #### Congratulations on our CV Family Graduation, August 2024
-<div style="overflow: hidden; text-align: center;">
-    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830.gif" width="382" style="float: left; margin-right: 0;" />
-    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830_3.gif" width="400" style="float: left;" />
+<div style="text-align: center;">
+    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830.gif" width="382" style="display: inline-block; vertical-align: top; margin: 0;" />
+    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830_3.gif" width="400" style="display: inline-block; vertical-align: top; margin: 0;" />
 </div>
 
 #### KCCV, August 2024
