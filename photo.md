@@ -1,8 +1,9 @@
 ## 2024
 #### Graduate, August 2024
-<div id="slideshow" style="width: 820px; margin: 0 auto; position: relative;">
-    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830.gif" width="820" style="display: block; position: absolute; left: 0; top: 0;" />
-    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/flower.jpg" width="820" style="display: none; position: absolute; left: 0; top: 0;" />
+#### Graduate, August 2024
+<div style="display: flex; justify-content: center; align-items: center;">
+    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830.gif" width="410" style="margin-right: 20px;" />
+    <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/flower.HEIC" width="410" />
 </div>
 
 <script>
