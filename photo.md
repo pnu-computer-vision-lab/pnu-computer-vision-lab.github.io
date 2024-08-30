@@ -1,6 +1,6 @@
 ## 2024
 #### Graduate, August 2024
-<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830.jpg" width="820" style="display: block; margin: 0 auto;" />
+<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830.gif" width="820" style="display: block; margin: 0 auto;" />
 
 #### KCCV, August 2024
 <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/main_1.jpg" width="820" style="display: block; margin: 0 auto;" />
