@@ -1,4 +1,7 @@
 ## 2024
+#### PNU graduate students Fair, September 2024
+<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/fair.jpg" width="820" style="display: block; margin: 0 auto;" />
+
 #### Congratulations on our CV Family Graduation, August 2024
 <div style="display: flex; justify-content: center; align-items: center; gap: 0;">
     <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/240830.gif" width="382" style="margin: 0;" />

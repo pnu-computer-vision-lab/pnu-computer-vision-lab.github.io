@@ -13,7 +13,7 @@ subtitle: CV Lab Family
     </div>
     <div style="text-align: center; width: 200px;">
         <a href="https://github.com/zespy5">Bongguk Son</a><br>
-        <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/ alt="Bongguk Son" width="150">
+        <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/"Bongguk Son" width="150">
     </div>
     <div style="text-align: center; width: 200px;">
         <a href="https://github.com/gndldl">Jonghwi Lee</a><br>
