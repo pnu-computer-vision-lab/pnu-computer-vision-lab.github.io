@@ -16,7 +16,9 @@ subtitle: CV Lab Family
 
 <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/jhlee.jpg" width="197" height="260" align="left" hspace="20" /> 
 
-* [Bohyun Kim](https://github.com/boyamie)
+[Bohyun Kim](https://github.com/boyamie)
+
+<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/bhkim.jpg" width="197" height="260" align="right" hspace="20" /> 
  
 #### Alumni
 
