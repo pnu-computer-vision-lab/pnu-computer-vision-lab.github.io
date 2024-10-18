@@ -33,6 +33,10 @@ subtitle: CV Lab Family
         <a href="https://github.com/boyamie">Bohyun Kim</a><br>
         <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/bhkim.jpeg" alt="Bohyun Kim" width="150">
     </div>
+        <div style="text-align: center; width: 200px;">
+        <a href="https://github.com/1003lky">Keumyong Lee</a><br>
+        <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/lkky.jpg" alt="Keumyong Lee" width="150">
+    </div>
 </div>
 
 ## Alumni
