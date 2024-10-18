@@ -12,6 +12,10 @@ subtitle: CV Lab Family
 
 #### BS students / Interns
 
+[Jeonghan Lee](https://github.com/Decide02)
+
+<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/jhlee.jpg" width="197" height="260" align="left" hspace="20" /> 
+
 * [Bohyun Kim](https://github.com/boyamie)
  
 #### Alumni
