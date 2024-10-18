@@ -23,7 +23,7 @@ subtitle: CV Lab Family
 <div style="display: flex; gap: 20px; justify-content: center;">
     <div style="text-align: center;">
         <a href="https://github.com/Decide02">Jeonghan Lee</a><br>
-        <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/jhlee.jpg" width="197" height="260">
+        <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/jhlee 2.jpg" width="197" height="260">
     </div>
     <div style="text-align: center;">
         <a href="https://github.com/boyamie">Bohyun Kim</a><br>
