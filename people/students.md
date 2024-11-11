@@ -13,12 +13,11 @@ subtitle: CV Lab Family
     </div>
     <div style="text-align: center; width: 200px;">
         <a href="https://github.com/zespy5">Bongguk Son</a><br>
-        <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/"Bongguk Son" width="150">
+        <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/" alt="Bongguk Son" width="150">
     </div>
     <div style="text-align: center; width: 200px;">
         <a href="https://github.com/gndldl">Jonghwi Lee</a><br>
-        <!-- 이미지를 추가하려면 여기 이미지 링크를 넣으세요 -->
-        <img src="이미지_URL" alt="Jonghwi Lee" width="150">
+        <img src="https://github.com/user-attachments/assets/b2b89b2f-6bbf-48e2-b0bb-b50b70a10544" alt="Jonghwi Lee" width="150">
     </div>
 </div>
 
