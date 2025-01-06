@@ -42,8 +42,7 @@ subtitle: CV Lab Family
 
 <div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
     <div style="text-align: center; width: 200px;">
-        <a href="https://kr.linkedin.com/in/%EC%8B%9C%ED%98%95-%EB%B0%95-370207272?trk=public_profile_browsemap-profile">Sihyeong Park</a>
-    </div>
+        <a href="https://kr.linkedin.com/in/%EC%8B%9C%ED%98%95-%EB%B0%95-370207272?trk=public_profile_browsemap-profile">Sihyeong Park</a> , ReLU Games | KRAFTON
     <div style="text-align: center; width: 200px;">
         <a href="https://github.com/skeral">Jihoon Han</a> , Hyundai Mobis
     </div>
