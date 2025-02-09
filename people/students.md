@@ -30,7 +30,7 @@ subtitle: CV Lab Family
     </div>
     <div style="text-align: center; width: 200px;">
         <a href="https://github.com/boyamie">Bohyun Kim</a><br>
-        <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/master/img/bhkim.jpeg" alt="Bohyun Kim" width="150">
+        <img src="https://github.com/user-attachments/assets/6b7e6e87-224b-4387-9f76-22b9be4c099e" alt="Bohyun Kim" width="150">
     </div>
         <div style="text-align: center; width: 200px;">
         <a href="https://github.com/1003lky">Keumyong Lee</a><br>
