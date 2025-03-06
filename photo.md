@@ -1,3 +1,7 @@
+## 2025
+#### Congratulations on our CV Family Graduation, February
+<img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/2502.jpg" width="820" style="display: block; margin: 0 auto;" />
+
 ## 2024
 #### PNU graduate students Fair, September 2024
 <img src="https://raw.githubusercontent.com/pnu-computer-vision-lab/pnu-computer-vision-lab.github.io/main/img/fair.jpg" width="820" style="display: block; margin: 0 auto;" />
