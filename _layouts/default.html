@@ -2,13 +2,13 @@
 layout: compress
 ---
 
-{% include base_path.html %}
+{% include base_path %}
 
 <!doctype html>
 <html lang="{{ site.locale | slice: 0,2 }}" class="no-js">
   <head>
     {% include head.html %}
-    <!-- {% include head/custom.html %} 이 줄을 주석 처리하거나 제거하세요 -->
+    {% include head/custom.html %}
   </head>
 
   <body>

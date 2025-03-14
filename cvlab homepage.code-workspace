@@ -1,0 +1,56 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_data"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_drafts"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_includes"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_layouts"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_pages"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_posts"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_publications"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_sass"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_students"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_talks"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/_teaching"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/assets"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/files"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/images"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/markdown_generator"
+		},
+		{
+			"path": "../../다운로드/wwplato.github.io-main/talkmap"
+		}
+	],
+	"settings": {}
+}

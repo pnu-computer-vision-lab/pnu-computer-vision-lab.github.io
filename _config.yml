@@ -8,33 +8,74 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Sangryul Jeon"
+title                    : "Won Hwa Kim"
 title_separator          : "-"
-name                     : &name "Sangryul Jeon"
+name                     : &name "Won Hwa Kim"
 description              : &description "personal description"
-url                      : https://github.com/pnu-computer-vision-lab # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://wwplato.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pnu-computer-vision-lab/pnu-computer-vision-lab.github.io"
+repository               : "wwplato/wwplato.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "srjeon.jpg"
-  name             : "Sangryul Jeon"
-  pronouns         : # example: "he/him"  
-  bio              : "Assistant Professor in CSE at Pusan National University"
-  employer        : "Pusan National University"
+  avatar           : "wonhwakim_postech_profile.jpg"
+  name             : "Won Hwa Kim"
+  pronouns         : # example: "she/her"  
+  bio              : "Associate Professor in CSE/GSAI/MED"
+  #location         : "Graduate School of AI / Computer Science and Engineering"
+  employer         : "POSTECH"
+  #location         : "Graduate School of AI"
+  #location         : "Computer Science and Engineering"
+  #location         : "Graduate School of AI / Computer Science and Engineering"
+  #uri              : # URL
+  #email            : "none@example.org" 
 
   # Academic websites
-  googlescholar    : "https://scholar.google.co.kr/citations?user=YVJth1UAAAAJ&hl=ko&oi=ao"
-  
+  #arxiv            : # URL - Update with the correct link to your profile
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=aWPSHNwAAAAJ"
+  #impactstory      : # URL
+  #orcid            : "http://orcid.org/yourorcidurl"
+  #semantic         : # URL
+  #pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  #researchgate     : # URL
+
   # Repositories and software development
-  # github           : "sangryuljeon"
-  
+  bitbucket        : # Username - Update with your username on the site
+  codepen          : # Username
+  dribbble         : # Username
+  #github           : "academicpages"
+  kaggle           : # Username  
+  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+
   # Social media
-  linkedin         : "https://www.linkedin.com/in/sangryul-jeon-3b697b17a/"
+  #bluesky          : "bsky.app" # Replace this with you Bluesky username
+  facebook         : # Username
+  flickr           : # Username
+  foursquare       : # Username
+  goodreads        : # Username
+  google_plus      : # Username
+  keybase          : # Username
+  instagram        : # Username
+  lastfm           : # Username
+  linkedin         : # Username
+  mastodon         : # URL
+  medium           : # URL
+  pinterest        : # Username
+  soundcloud       : # Username
+  steam            : # Username
+  telegram         : # URL
+  tumblr           : # Username
+  twitter          : # Username for X / Twitter
+  vine             : # Username
+  weibo            : # Username
+  wikipedia        : # Username
+  xing             : # Username
+  youtube          : # Username
+  zhihu            : # URL
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -106,12 +147,9 @@ analytics:
 
 # Reading Files
 include:
-  - _includes
-  - _layouts
-  - _posts
+  - .htaccess
   - _pages
   - files
-  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
