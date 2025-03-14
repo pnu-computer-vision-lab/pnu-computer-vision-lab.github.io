@@ -12,7 +12,7 @@ title                    : "Sangryul Jeon"
 title_separator          : "-"
 name                     : &name "Sangryul Jeon"
 description              : &description "personal description"
-url                      : https://github.com/pnu-computer-vision-lab # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: "https://pnu-computer-vision-lab.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "pnu-computer-vision-lab/pnu-computer-vision-lab.github.io"
 
