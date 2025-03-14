@@ -8,34 +8,27 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Won Hwa Kim"
+title                    : "Sangryul Jeon"
 title_separator          : "-"
-name                     : &name "Won Hwa Kim"
+name                     : &name "Sangryul Jeon"
 description              : &description "personal description"
-url                      : https://wwplato.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://github.com/pnu-computer-vision-lab # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "wwplato/wwplato.github.io"
+repository               : "pnu-computer-vision-lab/pnu-computer-vision-lab.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wonhwakim_postech_profile.jpg"
-  name             : "Won Hwa Kim"
-  pronouns         : # example: "she/her"  
-  bio              : "Associate Professor in CSE/GSAI/MED"
-  #location         : "Graduate School of AI / Computer Science and Engineering"
-  employer         : "POSTECH"
-  #location         : "Graduate School of AI"
-  #location         : "Computer Science and Engineering"
-  #location         : "Graduate School of AI / Computer Science and Engineering"
-  #uri              : # URL
-  #email            : "none@example.org" 
+  avatar           : "srjeon.jpg"
+  name             : "Sangryul Jeon"
+  pronouns         : # example: "he/him"  
+  bio              : "Assistant Professor in CSE at Pusan National University"
+  employer        : "Pusan National University"
 
   # Academic websites
-  #arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=aWPSHNwAAAAJ"
+  googlescholar    : "https://scholar.google.co.kr/citations?user=YVJth1UAAAAJ&hl=ko&oi=ao"
   #impactstory      : # URL
   #orcid            : "http://orcid.org/yourorcidurl"
   #semantic         : # URL
@@ -52,6 +45,7 @@ author:
 
   # Social media
   #bluesky          : "bsky.app" # Replace this with you Bluesky username
+  linkedin         : "https://www.linkedin.com/in/sangryul-jeon-3b697b17a/"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
