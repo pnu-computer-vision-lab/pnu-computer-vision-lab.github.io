@@ -12,18 +12,18 @@ author_profile: true
 - [Bongguk Son](https://github.com/zespy5)  
   ![Bongguk Son]( "Bongguk Son")  
 - [Jonghwi Lee](https://github.com/gndldl)  
-  ![Jonghwi Lee](https://github.com/user-attachments/assets/b2b89b2f-6bbf-48e2-b0bb-b50b70a10544 "Jonghwi Lee")  
+  ![Jonghwi Lee](https://github.com/user-attachments/assets/b2b89b2f-6bbf-48e2-b0bb-b50b70a10544 "Jonghwi Lee"){ width=150px }
 - [Jeonghan Lee](https://github.com/Decide02)  
-  ![Jeonghan Lee](../images/jhlee_2.jpg "Jeonghan Lee")  
+  ![Jeonghan Lee](../images/jhlee_2.jpg "Jeonghan Lee"){ width=150px }
 - [Bohyun Kim](https://github.com/boyamie)  
-  ![Bohyun Kim](https://github.com/user-attachments/assets/6b7e6e87-224b-4387-9f76-22b9be4c099e "Bohyun Kim")  
+  ![Bohyun Kim](https://github.com/user-attachments/assets/6b7e6e87-224b-4387-9f76-22b9be4c099e "Bohyun Kim"){ width=150px }
 
 ## BS students / Interns
 
 - [Keumyong Lee](https://github.com/1003lky)  
-  ![Keumyong Lee](../images/lkky.jpg "Keumyong Lee")  
+  ![Keumyong Lee](../images/lkky.jpg "Keumyong Lee"){ width=150px }
 - [Seongmin Kim](https://github.com/ksm1626)  
-  ![Seongmin Kim](../images/sm.jpg "Seongmin Kim")  
+  ![Seongmin Kim](../images/sm.jpg "Seongmin Kim"){ width=150px }
 
 ## Alumni
 
