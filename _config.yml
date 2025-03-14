@@ -106,10 +106,12 @@ analytics:
 
 # Reading Files
 include:
-  - .htaccess
+  - _includes
+  - _layouts
+  - _posts
   - _pages
   - files
-  - _includes
+  
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
