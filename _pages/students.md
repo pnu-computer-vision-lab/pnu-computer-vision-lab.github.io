@@ -36,7 +36,7 @@ author_profile: true
 
 <div class="students">
   <a href="https://github.com/Decide02">Jeonghan Lee</a><br>
-  <img src="/images/jhlee_2.jpg" alt="jhlee.jpg">
+  <img src="/images/jhlee.jpg" alt="Jeonghan Lee">
 </div>
 
 <div class="students">
