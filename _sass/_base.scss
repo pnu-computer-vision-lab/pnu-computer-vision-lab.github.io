@@ -313,3 +313,12 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+.students img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;  /* 비율 유지하면서 정사각형으로 맞추기 */
+  border-radius: 10px; /* 모서리 둥글게 (선택) */
+  display: block;
+  margin: 10px auto;
+}
