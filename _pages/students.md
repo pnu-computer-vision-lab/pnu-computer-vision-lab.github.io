@@ -21,12 +21,12 @@ author_profile: true
 
 <div class="students">
   <a href="https://github.com/DailyVy">Bigyeol Choi</a><br>
-  <img src="/images/bigyeol.jpg" alt="Bigyeol Choi">
+  <img src="/images/choi.jpg" alt="Bigyeol Choi">
 </div>
 
 <div class="students">
   <a href="https://github.com/zespy5">Bongguk Son</a><br>
-  <img src="/images/bongguk.jpg" alt="Bongguk Son">
+  <img src="/images/son.jpg" alt="Bongguk Son">
 </div>
 
 <div class="students">
