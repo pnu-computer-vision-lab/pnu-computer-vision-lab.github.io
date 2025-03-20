@@ -13,8 +13,8 @@ I am an Assistant Professor in the [Department of Computer Science and Engineeri
 ---
 
 ### **Contact**  
-* Phone: srjeonn at pusan dot ac dot kr
-* Office: #6507 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, KOREA  
+* Email: srjeonn@pusan.ac.kr
+* Office: Room 6507, Building 6 (Computer Engineering Building), 2, Busandaehak-ro 63beon-gil, Geumjeong-gu, Busan, KOREA  
 
 ---
 
