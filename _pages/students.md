@@ -44,6 +44,11 @@ author_profile: true
   <img src="https://github.com/user-attachments/assets/6b7e6e87-224b-4387-9f76-22b9be4c099e" alt="Bohyun Kim">
 </div>
 
+<div class="students">
+  <a href="https://github.com/gnsl318">Taehoon Choi</a><br>
+  <img src="/images/tae.jpg" alt="Taehoon Choi">
+</div>
+
 ## BS students / Interns
 
 <div class="students">
