@@ -40,11 +40,6 @@ author_profile: true
 </div>
 
 <div class="students">
-  <a href="https://github.com/boyamie">Bohyun Kim</a><br>
-  <img src="https://github.com/user-attachments/assets/6b7e6e87-224b-4387-9f76-22b9be4c099e" alt="Bohyun Kim">
-</div>
-
-<div class="students">
   <a href="https://github.com/gnsl318">Taehoon Choi</a><br>
   <img src="/images/tae.jpg" alt="Taehoon Choi">
 </div>
@@ -52,16 +47,6 @@ author_profile: true
 ## BS students / Interns
 
 <div class="students">
-  <a href="https://github.com/1003lky">Keumyong Lee</a><br>
-  <img src="/images/lkky.jpg" alt="Keumyong Lee">
-</div>
-
-<div class="students">
   <a href="https://github.com/ksm1626">Seongmin Kim</a><br>
   <img src="/images/sm.jpg" alt="Seongmin Kim">
 </div>
-
-## Alumni
-
-- [Sihyeong Park](https://kr.linkedin.com/in/%EC%8B%9C%ED%98%95-%EB%B0%95-370207272?trk=public_profile_browsemap-profile) - AI Engineer at KRAFTON  
-- Jihoon Han - Engineer at HYUNDAI Mobis
